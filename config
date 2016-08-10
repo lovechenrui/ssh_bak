@@ -1,0 +1,13 @@
+# ≈‰÷√github.com
+Host github.com                 
+    HostName github.com
+    IdentityFile C:\\Users\\Administrator\\.ssh\\id_rsa
+    PreferredAuthentications publickey
+    User lovechenrui
+
+# ≈‰÷√git.oschina.net 
+Host git.oschina.net 
+    HostName git.oschina.net
+    IdentityFile C:\\Users\\Administrator\\.ssh\\id_rsa_oschina
+    PreferredAuthentications publickey
+    User ruirui_
